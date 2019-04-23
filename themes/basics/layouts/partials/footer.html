@@ -1,4 +1,22 @@
       <footer>
+
+        <nav class="social-icons icons">
+
+{{ if isset .Site.Params "email_address" }}
+  <a class="fa fa-envelope fa-lg" style="color:#DDDDDD" href="https://twitter.com/{{ .Site.Params.email_address }}"></a>
+{{ end }}
+
+{{ if isset .Site.Params "linkedin_username" }}
+  <a class="fab fa-linkedin fa-lg" style="color:#DDDDDD" href="https://www.linkedin.com/in/{{ .Site.Params.github_username }}"></a>
+{{ end }}
+
+{{ if isset .Site.Params "github_username" }}
+  <a class="fab fa-github fa-lg" style="color:#DDDDDD" href="https://github.com/{{ .Site.Params.github_username }}"></a>
+{{ end }}
+
+
+
+</nav>
         <hr>
         <small>
           &copy; {{ now.Format "2006" }} {{ .Site.Params.author }}.
