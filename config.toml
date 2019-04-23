@@ -2,3 +2,14 @@ baseURL = ""
 languageCode = "en-us"
 title = "Patrick Maia"
 theme = "basics"
+
+enableEmoji = true
+
+[params]
+  author_name = "Patrick Maia"
+  email_address = "patrickmaia@id.uff.br"
+  linkedin_username = "patrickrmaia"
+  github_username = "patrickrmaia"
+
+[blackfriday]
+	fractions = false
