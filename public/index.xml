@@ -20,5 +20,14 @@
       <description>testeteste</description>
     </item>
     
+    <item>
+      <title>Sobre</title>
+      <link>/about/</link>
+      <pubDate>Tue, 23 Apr 2019 03:06:40 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About - Sobre</description>
+    </item>
+    
   </channel>
 </rss>
