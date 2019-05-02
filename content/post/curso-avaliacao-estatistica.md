@@ -15,7 +15,14 @@ date: 2019-04-23T03:06:45Z
 ## Investimento: :rocket:
 
 * 4 primeiras aulas - R$ 200
-* Aula V - Extra - R$ 100
+
+Aulas Avulsas:
+
+* Aula 1  - R$ 60
+* Aula 2  - R$ 60
+* Aula 3  - R$ 70
+* Aula 4  - R$ 80
+* Aula 5  - Extra - R$ 100
 
 
 ## Informacões: 
@@ -26,7 +33,7 @@ date: 2019-04-23T03:06:45Z
 ## Inscrições
 http://bit.ly/cursorrj
 
-## Cronograma das Aulas
+## Cronograma das Aulas :calendar:
 
 * 21/05 - Aula  I - A Linguagem R
 * 23/05 - Aula  II -  Análise de Dados no R
